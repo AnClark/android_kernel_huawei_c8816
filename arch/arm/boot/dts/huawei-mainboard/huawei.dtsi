@@ -30,3 +30,8 @@
 
 /include/ "huawei-memory.dtsi"
 /*belong to the OS group, according to the order of battery memery end*/
+
+/*this is anclark's extention*/
+/include/ "huawei-ramoops.dtsi"
+
+/*this is anclark's extention*/
